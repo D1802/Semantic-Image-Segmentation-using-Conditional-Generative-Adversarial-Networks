@@ -1,0 +1,2 @@
+# Semantic-Image-Segmentation-using-Conditional-Generative-Adversarial-Networks
+Semantic segmentation is a computer vision task in which each pixel in an image belongs to one particular class, i.e., it is the task of assigning a class to every pixel in an image. Currently, most of the methods [1] mainly rely on convolutional neural network (CNN) approaches as CNN has become the common workhorse for variety of image prediction problems. CNN’s minimises a loss which is an objective that scores the quality of results.
